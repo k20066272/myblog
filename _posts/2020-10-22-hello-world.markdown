@@ -8,4 +8,4 @@ Hello! Nice to meet you!
 
 This is **my** blog.
 
-![IMG_0088.JPG](image.jpg)
+![Put a lovely cat here to attract viewers!](IMG_0088.JPG)
