@@ -9,3 +9,5 @@ Hello! Nice to meet you!
 This is **my** blog.
 
 ![Put a lovely cat here to attract viewers!](/img/IMG_0088.JPG)
+
+> Put a lovely cat here to attract viewers!
