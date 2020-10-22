@@ -7,3 +7,5 @@ categories: jekyll update
 Hello! Nice to meet you!
 
 This is **my** blog.
+
+![IMG_0088.JPG](image.jpg)
