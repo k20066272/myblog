@@ -8,8 +8,8 @@ categories: jekyll update
 # All Bands
 
 <h1>Decades</h1>
-- [Bands formed 1960s](/bands/1960s.html)
-- [Bands formed 1970s](bands/1970s.markdown)
+- [Bands formed 1960s](/bands/1960s)
+- [Bands formed 1970s](/bands/1970s)
 - [Bands formed 1980s]
 - [Bands formed 1990s]
 - [Bands formed 2000s]
